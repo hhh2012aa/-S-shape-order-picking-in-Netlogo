@@ -4,7 +4,7 @@ vehs-own[picking? exit? return?]
 globals[total_dis]
 
 
-
+; 
 
 to move
 
